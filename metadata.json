@@ -1,0 +1,5 @@
+{
+  "name": "Clash Node Viewer",
+  "description": "A web application to fetch, parse, and display Clash proxy nodes from a subscription URL or raw configuration. Designed for a desktop-like experience with a responsive interface.",
+  "requestFramePermissions": []
+}
